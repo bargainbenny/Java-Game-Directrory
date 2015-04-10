@@ -7,7 +7,7 @@ public class Main {
 	
 	public static void main(String[] args)
 	{
-		JFrame frame = new JFrame();
+		JFrame frame = new JFrame("Changed");
 		
 		frame.setSize(500, 500);
 		frame.setVisible(true);
